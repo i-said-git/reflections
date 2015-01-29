@@ -14,3 +14,10 @@ on your computer that you're going to turn into a repository and a repository
 is different because it's where actual commited changes to files are saved.
 Staging area is valuable because it gives you a place to put files before
 they are ready to be committed.
+
+------------
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+After every logical change add the file that you changed to the staging area.
