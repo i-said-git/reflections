@@ -1,4 +1,16 @@
 What happens when you initializea repository? Why do you need to do it?
 
 When you initialize a repository it let's git know that you want to keep
-track of the file in the current directory. You need to do this so that git knows which files and folders you want to track.
+track of the file in the current directory. You need to do this so that
+git knows which files and folders you want to track.
+
+------------
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+The difference is that the working directory is simply the local directory
+on your computer that you're going to turn into a repository and a repository
+is different because it's where actual commited changes to files are saved.
+Staging area is valuable because it gives you a place to put files before
+they are ready to be committed.
