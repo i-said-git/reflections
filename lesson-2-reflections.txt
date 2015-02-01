@@ -21,3 +21,13 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 
 After every logical change add the file that you changed to the staging area.
+
+------------
+
+What are some situation when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Branches would be helpful in keeping your project organized in a situation
+when you want to take your project/code into a direction that you're not
+sure of? Branches can be helpful because if you don't end up wanting to move forward with the branch you can just ditch all together without affecting
+the rest of the project.
