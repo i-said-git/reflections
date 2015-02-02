@@ -31,3 +31,18 @@ Branches would be helpful in keeping your project organized in a situation
 when you want to take your project/code into a direction that you're not
 sure of? Branches can be helpful because if you don't end up wanting to move forward with the branch you can just ditch all together without affecting
 the rest of the project.
+
+-------------
+
+How do the diagrams help you visualize the branch structure?
+
+The visualisations help because they make it very clear which commits are a
+part of which specific branch.
+
+------------
+
+What are the pros and cons of Git's automatic merging vs. always doing the
+merges manually?
+
+The pros are that it's faster and that it won't automatically merge the two
+branches if there are conflicts that will cause your code to run.
