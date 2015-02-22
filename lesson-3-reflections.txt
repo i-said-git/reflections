@@ -33,3 +33,8 @@ day that is designated for a certain person to add something to the project,
 or maybe just having to separate copies of the project and then having a day
 where you "merge" the two versions. 
 ------------------------------
+When would you want to make changes ina a separate branch rather tha directly 
+in master? What benefits does each approach have?
+
+I would want to make changes in a separate branch whenever I'm adding a new 
+feature to a project that I'm collaborating on with another person.
