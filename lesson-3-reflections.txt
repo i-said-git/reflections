@@ -24,3 +24,12 @@ stored locally?
 
 The benefit is if you have to work online you can be as up to date as possible
 with the latest changes to the source.
+-----------------------------------
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+I would collaborate without using Git or GitHub by having a specific time or 
+day that is designated for a certain person to add something to the project, 
+or maybe just having to separate copies of the project and then having a day
+where you "merge" the two versions. 
+------------------------------
